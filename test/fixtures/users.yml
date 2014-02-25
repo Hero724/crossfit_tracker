@@ -1,17 +1,17 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  full_name: MyString
-  email: MyString
+  full_name: MyText
+  email: MyText
   age: 1
   weight: 1
-  sex: MyString
-  crossfit_box: MyString
+  sex: MyText
+  crossfit_box: MyText
 
 two:
-  full_name: MyString
-  email: MyString
+  full_name: MyText
+  email: MyText
   age: 1
   weight: 1
-  sex: MyString
-  crossfit_box: MyString
+  sex: MyText
+  crossfit_box: MyText
